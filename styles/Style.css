@@ -9,9 +9,7 @@
 }
 
 li {
-  float: left;
-   list-style-type: none;
-}
+  float: left;}
 
 li a {
   display: block;
@@ -38,51 +36,6 @@ li {
 li:last-child {
   border-right: none;
 }
-/*STYLING FOR CSS*/
-h2 {
-  color: white;
-  text-align: center;
-  font-size: 40px;
-  background-color: blue;
-  
-}
-div {
-  text-align: left;
-  list-style-type: none;
-  margin: 3;
-  padding: 3;
-  overflow: hidden;
-  background-color: white;
-}
-
-li {
-  float: left;
-}
-#address{
-  text-align: center;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px; 
-  text-decoration: none;
-  max-width: 700px;
-  margin: auto;
-  background-color: white;
-}
-
-}
-#Two {
-  list-style-type: none;
-  margin: auto;
-  padding: auto;
-  overflow: hidden;
-  background-color: none;
-}
-/* STYLING FOR CSS */
-
 
 
 
